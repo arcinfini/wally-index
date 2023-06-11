@@ -1,3 +1,6 @@
 {
-    "api": "http://ssh.arcinfini.net:8000/"
+    "api": "http://ssh.arcinfini.net:8000/",
+    "fallback_registries": [
+        "https://github.com/UpliftGames/wally-index"
+    ]
 }
